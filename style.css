@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.container {
+    background: -webkit-linear-gradient(310deg, blue, red);
+    margin-top: 40px;
+    margin-left: 35%;
+    width: 400px;
+    height: 600px;
+    padding: 10px;
+    border-radius: 20px;
+}
+form {
+    background-color: white;
+    margin: 0;
+    width: 300xp;
+    padding: 10px;
+    border-radius: 20px;
+    height: 580px;
+}
+.calendar, .date, .month, .year, .week, .day {
+    padding: 3px;
+    border-style: hidden;
+}
