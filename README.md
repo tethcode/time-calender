@@ -1,2 +1,2 @@
 # time-calender
-A time calender inspired the @HydeeTechWorld
+A time calender inspired by @HydeeTechWorld
